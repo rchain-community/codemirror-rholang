@@ -1,6 +1,6 @@
 {
   "name": "codemirror-rholang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rholang syntax highlighting for Codemirror.",
   "main": "index.js",
   "scripts": {
