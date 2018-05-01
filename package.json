@@ -1,0 +1,19 @@
+{
+  "name": "codemirror-rholang",
+  "version": "1.0.0",
+  "description": "Rholang syntax highlighting for Codemirror.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschoffelen/codemirror-rholang.git"
+  },
+  "author": "Thomas Schoffelen <thomas@includable.com> (https://includable.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tschoffelen/codemirror-rholang/issues"
+  },
+  "homepage": "https://github.com/tschoffelen/codemirror-rholang#readme"
+}
